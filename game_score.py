@@ -7,4 +7,4 @@ average_score = total_score / games_played
 print(f"Player: {player_name}\n")
 print(f"Games Played: {games_played}\n")
 print(f"Total Score: {total_score}\n")
-print(f"Average Score: {average_score}")##checking
+print(f"Average Score: {average_score}")
