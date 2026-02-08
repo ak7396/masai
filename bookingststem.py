@@ -34,4 +34,4 @@ while  remaining_seats>0 :
 print(f"Final Report : total bookings: {total_bookings},"
       f"Total tickets sold :{total_tickets_sold},"
       f"Rejected bookings: {rejections},"
-      f"Remaining seats :{remaining_seats}")
+      f"Remaining seats :{remaining_seats}")#final code
